@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N8VgGLLWWIRhiGjkFyJT2dGiW/95BibMVVRqfKHfAc8=",
+  "Source": "HashPasswordApi",
+  "BasePath": "_content/HashPasswordApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
